@@ -1,0 +1,9 @@
+{
+  "firebase": "chatucc",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
